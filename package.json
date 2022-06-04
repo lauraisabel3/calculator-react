@@ -1,0 +1,25 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "calculator",
+  "author": "lauraisabel3",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "gatsby": "^4.15.2",
+    "gatsby-plugin-emotion": "^7.15.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
