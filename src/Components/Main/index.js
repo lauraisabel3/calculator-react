@@ -100,7 +100,7 @@ const Main = () => {
       <TotalContainer>
         <TotalTitle>Tip Amount <br/><span>/ person</span></TotalTitle>
         <TotalAmount>{tipPerPerson}</TotalAmount>
-        <TotalTitle>Total <br/><span>/ person</span></TotalTitle>
+        <TotalTitle>Total <br/><span>/ with amount</span></TotalTitle>
         <TotalAmount>{total}</TotalAmount>
         <Button onClick={handleClick}>RESET</Button>
       </TotalContainer>
